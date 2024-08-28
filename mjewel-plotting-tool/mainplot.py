@@ -18,7 +18,7 @@ def main():
         except FileNotFoundError:
             print(f"\nERROR: Input file '{args.file}' does not exist\n")
             raise
-        
+
         assert (
             "Exercise" in fitdata.columns
             and "Weight (kgs)" in fitdata.columns
