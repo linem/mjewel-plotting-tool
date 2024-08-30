@@ -1,3 +1,8 @@
-## mjewel-plotting-tool
+## mjewelplot
 
-A minimal python package for plotting important stuff
+#### Description
+A minimal command line tool for plotting important stuff
+
+#### Authors
+- linem
+- Jakob37

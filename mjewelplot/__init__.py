@@ -1,7 +1,7 @@
 """
-mjewel-plotting-tool
+mjewelplot
 
-A minimal python package for plotting important stuff
+A minimal command line tool for plotting important stuff
 """
 
 __version__ = "0.1.0"
